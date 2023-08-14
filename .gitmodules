@@ -1,0 +1,10 @@
+[submodule "zlib-win"]
+	path = zlib-win
+	url = https://github.com/apotocki/zlib-win.git
+[submodule "packages/zlib"]
+	path = packages/zlib
+	url = https://github.com/madler/zlib
+[submodule "packages/libpng"]
+	path = packages/libpng
+	url = git://git.code.sf.net/p/libpng/code
+	branch = libpng16
