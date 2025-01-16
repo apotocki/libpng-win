@@ -1,3 +1,5 @@
+[<img src="https://api.gitsponsors.com/api/badge/img?id=678506512" height="20">](https://api.gitsponsors.com/api/badge/link?p=BUhc7+vaiAFjqwcZLAevyk8ziAkwR251h851EHh2oNche8uMkvI8Hvbx9vdMxcR2Qy5zjznueX7d/eBptLsd59nVaHECP54OGfK2xctBS4k5GEZrZLfWCn2G9BcjDk93PRggZUZ8S/q3Jgy6N9fTuA==)
+
 This repo contains project and solution files for building libpng library (and its dependency zlib) for Windows using Visual Studio.
 
 The solution is able to build both static and dynamic libraries in debug and release configurations for x86 and x64 architectures
