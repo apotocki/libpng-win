@@ -1,6 +1,3 @@
-[<img src="https://api.gitsponsors.com/api/badge/img?id=678506512" height="50">](https://api.gitsponsors.com/api/badge/link?p=BUhc7+vaiAFjqwcZLAevyrx6dWQM5TZw2L7u9OdPKf4OT2ajVGOM2EPz1TQRVC3NQZXAZGlwjDV3nXjkbKKlwAD6o8qU/nfrWD02qm3IVkRN/gJDFB4m7MAL/X0bjk7Gm5Z5Q9QWWC1n/M4UHtsI0w==)
-[<img src="https://api.gitsponsors.com/api/badge/img?id=678506512" height="50">](https://api.gitsponsors.com/api/badge/link?p=BUhc7+vaiAFjqwcZLAevyrx6dWQM5TZw2L7u9OdPKf4OT2ajVGOM2EPz1TQRVC3NQZXAZGlwjDV3nXjkbKKlwAD6o8qU/nfrWD02qm3IVkRN/gJDFB4m7MAL/X0bjk7Gm5Z5Q9QWWC1n/M4UHtsI0w==)
-
 This repo contains project and solution files for building libpng library (and its dependency zlib) for Windows using Visual Studio.
 
 The solution is able to build both static and dynamic libraries in debug and release configurations for x86 and x64 architectures
